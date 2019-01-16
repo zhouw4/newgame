@@ -2,7 +2,7 @@
 
 int
 main(int argc, char const *argv[]){
-    printf("Hi!\n");
+    printf("Hello!\n");
     /* code */
     return 0;
 }
